@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rest-Cent Donations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-26 09:57+0000\n"
+"PO-Revision-Date: 2022-12-12 09:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: rest-cent-donations\n"
+
+msgid "1 month"
+msgstr "1 Monat"
+
+msgid "1 week"
+msgstr "1 Woche"
+
+msgid "12 hours"
+msgstr "12 Stunden"
+
+msgid "2 weeks"
+msgstr "2 Woche"
+
+msgid "24 hours"
+msgstr "24 Stunden"
+
+msgid "6 hours"
+msgstr "6 Stunden"
+
+msgid "After every purchase"
+msgstr "nach jedem Kauf"
+
+msgid "Allow shop owner donations"
+msgstr "Shop Spenden aktivieren"
+
+msgid "Allows you to create a CSV export of your donations"
+msgstr "Hiermit können Sie einen CSV Export ihrer Spenden erstellen"
+
+msgid ""
+"Are you already a member of Rest-Cent? Then log in here to select your "
+"favourite charity and link the donation to your account."
+msgstr ""
+"Sind Sie bereits Mitglied bei Rest-Cent? Dann loggen Sie sich hier ein, um "
+"Ihre persönlichen Einstellungen sowie ihre bevorzugten Organisationen zu "
+"laden und die Spende mit Ihrem Konto zu verknüpfen."
+
+msgid ""
+"By selecting the charity below you consent to donate the rounded cents of "
+"this order to the select. charity. You can also choose to donate a different "
+"amount by entering it in the box below."
+msgstr ""
+"Durch die Wahl einer Organisation über die unten stehende Auswahlliste "
+"runden Sie Ihren Einkauf automatisch auf den nächsten EUR auf und spenden "
+"diese. Sie können den Betrag beliebig in der Eingabebox ändern."
+
+msgid "Cancel Donation"
+msgstr "Spende abbrechen"
+
+msgid "Cart value for shop donations"
+msgstr "Warenkorbwert für Shop Spende"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Connection established successfully"
+msgstr "Verbindung erfolgreich hergestellt"
+
+msgid "Credentials"
+msgstr "Zugangsdaten"
+
+msgid "Daily"
+msgstr "täglich"
+
+msgid "Donate"
+msgstr "Spenden"
+
+msgid "Donation added"
+msgstr "Die Spende wurde in den Warenkorb gelegt"
+
+msgid "Donation removed"
+msgstr "Die Spende wurde aus dem Warenkorb entfernt"
+
+msgid "donations"
+msgstr "Spende"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Enable logs"
+msgstr "Log aktivieren"
+
+msgid "Enable Test Mode"
+msgstr "Test Modus"
+
+msgid "Every 3 Minutes"
+msgstr "Alle 3 Minuten"
+
+msgid "Every minute"
+msgstr "Jede Minute"
+
+msgid "Export Donation Data"
+msgstr "Spenden Exportieren"
+
+msgid "Fetch from RestCent"
+msgstr "Abrufen von RestCent"
+
+msgid ""
+"Here you activate if you want to log the different processes the plugin "
+"performs. Can be used to debug issues."
+msgstr ""
+"Hiermit aktivieren Sie das Protokollieren der Prozesse unseres Spenden "
+"Plugins. Im Fehlerfall oder beim Auftreten von Problemen liefert es "
+"Detaildaten, die uns bei der Problemsuche helfen können."
+
+msgid ""
+"Here you activate the store donation function, e.g. the donation of decimal "
+"places of a purchase. The donation function for your buyers is not affected, "
+"this is always active as long as the plugin is active."
+msgstr ""
+"Hiermit aktivieren Sie die Shop Spendenfunktion, z.B. das Spenden der "
+"Nachkommastellen eines Einkaufs. Die Spendenfunktion für Ihre Einkäufer ist "
+"davon nicht betroffen, diese ist immer aktiv solange das Plugin aktiv ist."
+
+msgid ""
+"Here you can choose the non-profit organization that will receive your shop "
+"donations. Depending on the frequency set for the automatic change of the "
+"organization, you can see the current organization set by the system."
+msgstr ""
+"Hier können Sie die gemeinnützige Organisation wählen, die Ihre Shop Spenden "
+"erhalten soll. Je nach eingestellter Frequenz beim automatischen Wechsel der "
+"Organisation, sehen Sie hier die aktuelle vom System gesetzte Organisation."
+
+msgid ""
+"Here you can set an interval to change the organizations automatically in a "
+"set cycle. This is useful if you have selected multiple organizations. Your "
+"store donations will be automatically assigned to the next organization in "
+"the set frequency."
+msgstr ""
+"Hier können Sie ein Interval setzen um die Organisationen automatisch in "
+"einem eingestellten Zyklus durchzuwechseln. Dies bietet sich dann an, wenn "
+"Sie mehrere Organisationen ausgewählt haben. Ihre Shop Spenden werden in der "
+"eingestellten Frequenz dann automatisch der jeweils nächsten Organisation "
+"zugeordnet."
+
+msgid "Login"
+msgstr "Einloggen"
+
+msgid "Login with Rest-Cent"
+msgstr "Einloggen bei Rest-Cent"
+
+msgid "Misc"
+msgstr "Sonstiges"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No Donation"
+msgstr "keine Spende gefunden"
+
+msgid "Owner Donation Amount"
+msgstr "Eigentümer Spendenbetrag"
+
+msgid "Owner Donation Charity"
+msgstr "Eigentümer Spende Wohltätigkeit"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Please check login details"
+msgstr "Bitte überprüfen Sie Ihre Anmeldedaten"
+
+msgid "Please wait loading charities"
+msgstr "Bitte warten"
+
+msgid "Save"
+msgstr "Speichern Sie"
+
+msgid "Select charities"
+msgstr "Wählen Sie eine gemeinnützige Organisation"
+
+msgid "Selected charity"
+msgstr "Aktuell gewählte gemeinnützige Organisation"
+
+msgid ""
+"Set the minimum transaction amount which will enable shop donations. Set 0 "
+"to donate on all purchases."
+msgstr ""
+"Hier können Sie entscheiden ab welchem Warenkorbwert Sie die "
+"Nachkommastellen spenden möchten. Setzen Sie den Wert 0 um bei jedem Einkauf "
+"die Rest-Cents zu spenden."
+
+msgid "Settings"
+msgstr "Grundeinstellungen"
+
+msgid "Shop ID"
+msgstr "Shop ID"
+
+msgid "Shuffle charity selection"
+msgstr "Automatischer Wechsel der Organisation"
+
+msgid "Sorry!"
+msgstr "Entschuldigung!"
+
+msgid "Thank you."
+msgstr "Vielen Dank."
+
+msgid ""
+"The test mode allows a detailed error analysis in our test environment. "
+"Please activate this mode only if you are asked to do so in a support case."
+msgstr ""
+"Der Test Modus erlaubt eine detailierte Fehleranalyse in unserer Test "
+"Umgebung. Bitte aktivieren Sie diesen Modus nur wenn Sie im Support Fall "
+"dazu aufgefordert werden."
+
+msgid ""
+"This button allows you to directly load the settings from the Rest-Cent "
+"portal, e.g. downloading your selected nonprofit organizations. However, the "
+"plugin also synchronizes your settings regularly every 24 hours, so the "
+"manual download is only necessary if you want to synchronize any changes "
+"immediately, e.g. when using the plugin for the first time."
+msgstr ""
+"Dieser Knopf ermöglicht das direkte Laden der Einstellungen aus dem Rest-"
+"Cent Portal, z.B. das Herunterladen Ihrer gewählten gemeinnützigen "
+"Organisationen. Das Plugin synchronisiert Ihre Einstellungen jedoch auch "
+"regelmässig alle 24 Stunden, daher ist das manuelle Herunterladen nur "
+"notwendig wenn Sie etwaige Änderungen sofort synchronisieren wollen, z.B. "
+"bei der erstmaligen Verwendung des Plugins."
+
+msgid "Update donation amount"
+msgstr "Spendenbetrag aktualisieren"
+
+msgid ""
+"With this order the shop will donate  <strong class=\"owner_donction\">"
+"%s</strong> to charity <strong>%s</strong>."
+msgstr ""
+"Bei dieser Bestellung spendet der Shop  <strong class=\"owner_donction\">"
+"%s</strong>an eine gemeinnützige Organisation <strong>%s</strong>."
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid ""
+"You will receive this store ID after logging in to the Rest-Cent portal "
+"under the menu item 'Settings'"
+msgstr ""
+"Diese Shop ID erhalten Sie nach der Anmeldung im Rest-Cent Portal unter dem "
+"Menüpunkt 'Einstellungen'"

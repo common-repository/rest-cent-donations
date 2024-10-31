@@ -1,0 +1,188 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rest-Cent Donations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-26 09:57+0000\n"
+"PO-Revision-Date: 2022-12-12 09:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en-GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: rest-cent-donations\n"
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Credentials"
+msgstr ""
+
+msgid "Here you activate the store donation function, e.g. the donation of decimal places of a purchase. The donation function for your buyers is not affected, this is always active as long as the plugin is active."
+msgstr ""
+
+msgid "Set the minimum transaction amount which will enable shop donations. Set 0 to donate on all purchases."
+msgstr ""
+
+msgid "Here you can set an interval to change the organizations automatically in a set cycle. This is useful if you have selected multiple organizations. Your store donations will be automatically assigned to the next organization in the set frequency."
+msgstr ""
+
+msgid "Here you can choose the non-profit organization that will receive your shop donations. Depending on the frequency set for the automatic change of the organization, you can see the current organization set by the system."
+msgstr ""
+
+msgid "Export Donation Data"
+msgstr ""
+
+msgid "Allows you to create a CSV export of your donations"
+msgstr ""
+
+msgid "Thank you."
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Connection established successfully"
+msgstr ""
+
+msgid "Here you activate if you want to log the different processes the plugin performs. Can be used to debug issues."
+msgstr ""
+
+msgid "The test mode allows a detailed error analysis in our test environment. Please activate this mode only if you are asked to do so in a support case."
+msgstr ""
+
+msgid "Sorry!"
+msgstr ""
+
+msgid "Please check login details"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Shop ID"
+msgstr ""
+
+msgid "Fetch from RestCent"
+msgstr ""
+
+msgid "Allow shop owner donations"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Cart value for shop donations"
+msgstr ""
+
+msgid "Shuffle charity selection"
+msgstr ""
+
+msgid "6 hours"
+msgstr ""
+
+msgid "12 hours"
+msgstr ""
+
+msgid "24 hours"
+msgstr ""
+
+msgid "1 week"
+msgstr ""
+
+msgid "2 weeks"
+msgstr ""
+
+msgid "1 month"
+msgstr ""
+
+msgid "After every purchase"
+msgstr ""
+
+msgid "Every 3 Minutes"
+msgstr ""
+
+msgid "Every minute"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Selected charity"
+msgstr ""
+
+msgid "Select charities"
+msgstr ""
+
+msgid "Enable logs"
+msgstr ""
+
+msgid "Enable Test Mode"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Owner Donation Charity"
+msgstr ""
+
+msgid "Owner Donation Amount"
+msgstr ""
+
+msgid "With this order the shop will donate  <strong class=\"owner_donction\">%s</strong> to charity <strong>%s</strong>."
+msgstr ""
+
+msgid "By selecting the charity below you consent to donate the rounded cents of this order to the select. charity. You can also choose to donate a different amount by entering it in the box below."
+msgstr ""
+
+msgid "Are you already a member of Rest-Cent? Then log in here to select your favourite charity and link the donation to your account."
+msgstr ""
+
+msgid "Donate"
+msgstr ""
+
+msgid "Update donation amount"
+msgstr ""
+
+msgid "Cancel Donation"
+msgstr ""
+
+msgid "Donation added"
+msgstr ""
+
+msgid "Donation removed"
+msgstr ""
+
+msgid "donations"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Please wait loading charities"
+msgstr ""
+
+msgid "No Donation"
+msgstr ""
+
+msgid "Login with Rest-Cent"
+msgstr ""
+
+msgid "You will receive this store ID after logging in to the Rest-Cent portal under the menu item 'Settings'"
+msgstr ""
+
+msgid "This button allows you to directly load the settings from the Rest-Cent portal, e.g. downloading your selected nonprofit organizations. However, the plugin also synchronizes your settings regularly every 24 hours, so the manual download is only necessary if you want to synchronize any changes immediately, e.g. when using the plugin for the first time."
+msgstr ""

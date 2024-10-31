@@ -1,0 +1,507 @@
+#customise_checkout_field span.extracent {
+    border: 1px solid #ddd;
+    display: inline-block;
+    margin: 0 2px;
+    padding: 3px 30px;
+    float: left;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+div#customise_checkout_field {
+    display: block;
+    margin: 0px;
+    margin-bottom: 5%;
+    /*background: #eee;*/
+    padding: 15px 15px;
+    /*padding-bottom: 3px;*/
+}
+
+select#charities_list {
+    margin-left: 12px;
+}
+
+label#charities_list {
+    font-size: 12px;
+    width: 100%;
+    font-weight: 600;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+.custom_donation {
+    float: left;
+    margin: 10px 0;
+    width: 100%;
+}
+
+span#rest_logo {
+    width: 48%;
+    font-size: 12px;
+    float: right;
+    margin-top: 0;
+    display: inline-block;
+}
+
+span#rest_logo a {
+    float: left;
+    display: inline-block;
+    width: auto;
+    background: #f15620;
+    padding: 4px 15px;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}
+
+p#login_msg {
+    display: inline-block;
+    width: 48%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-weight: 400;
+    text-align: right;
+}
+
+div#customise_checkout_field input[type="checkbox"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    position: relative;
+    /*top: 2px;*/
+    display: inline-block;
+    margin: 0;
+    /*width: 1.5rem;
+    min-width: 1.5rem;
+    height: 1.5rem;*/
+    background: transparent url("border-chkbox.png") no-repeat !important;
+    border-radius: 0;
+    border-style: solid;
+    border-width: 0.1rem;
+    border-color: #dcd7ca !important;;
+    box-shadow: none !important;;
+    cursor: pointer !important;;
+    border: none !important;
+    background-size: 100% !important;
+}
+
+span#rest_logo {
+    cursor: pointer;
+}
+
+span#rest_logo img {
+    float: left;
+    display: inline-block;
+}
+
+span#rest_logo span {
+    float: left;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    margin-top: 0%;
+    margin-left: 12px;
+    color: #fff !important;
+}
+
+.login_buuton {
+    width: 100%;
+    display: block;
+    float: right;
+    margin-top: 10px;
+}
+
+a.rest_login {
+    float: right;
+    text-align: right;
+    background: #cd2653;
+    color: #fff;
+    padding: 4px 16px;
+}
+
+.login_textsession {
+    text-align: left;
+    width: 100%;
+}
+
+.login_textsession p#login_msg {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+.login_textsession span#rest_logo {
+    float: none;
+    display: inline-block;
+    width: auto;
+}
+
+
+@media (max-width: 1200px) {
+    span#rest_logo {
+        width: 58%;
+    }
+
+    p#login_msg {
+        width: 40%;
+        font-size: 12px !important;
+    }
+
+    span#rest_logo span {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 1024px) {
+    p#login_msg {
+        width: 30%;
+        text-align: left;
+    }
+
+    span#rest_logo {
+        width: 69%;
+    }
+}
+
+@media (max-width: 900px) {
+    span#rest_logo a {
+        float: left;
+        display: inline-block;
+        width: 100%;
+        background: #cd2653;
+        padding: 2px 10px;
+    }
+
+    span#rest_logo span {
+        margin-top: 3%;
+        color: #fff !important;
+    }
+
+    p#login_msg {
+        width: 25%;
+        font-size: 10px !important;
+    }
+
+    span#rest_logo {
+        width: 75%;
+    }
+
+    span#rest_logo span {
+        font-size: 10px;
+    }
+
+    .login_textsession span#rest_logo {
+        float: none;
+        display: inline-block;
+        width: 100%;
+        text-align: center !important;
+    }
+}
+
+@media (max-width: 768px) {
+    span#rest_logo {
+        width: 70%;
+    }
+
+    p#login_msg {
+        width: 30%;
+        font-size: 14px !important;
+    }
+
+    span#rest_logo span {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 767px) {
+    span#rest_logo span {
+        margin-top: 8%;
+    }
+
+    select#charities_list {
+        font-size: 11px;
+        width: 154px !important;
+        /*padding: 3px 4px;*/
+    }
+
+    label#charities_list {
+        font-size: 12px;
+    }
+
+    div#customise_checkout_field {
+
+        padding-left: 8px !important;
+    }
+
+
+}
+
+@media (max-width: 380px) {
+    span#rest_logo span {
+        font-size: 10px;
+    }
+
+    p#login_msg {
+        font-size: 10px !important;
+    }
+}
+
+
+.custom_donation {
+    display: none;
+}
+
+#customise_checkout_field {
+    display: block;
+    margin: 8px;
+    margin-bottom: 5%;
+    background: transparent !important;
+    padding: 30px 30px;
+    /* padding-bottom: 3px;
+    border: 3px solid #39414d;*/
+    border-radius: 5px;
+}
+
+.customer_checkout_hd {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.customer_checkout_hd {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.customer_checkout_hd img {
+    width: 100px;
+}
+
+.check_label {
+    display: flex !important;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.check_label input#donate_checkbox_name {
+    margin-right: 10px !important;
+}
+
+div#customise_checkout_field input[type="checkbox"]:checked::before {
+    left: 8px;
+    top: 5px;
+}
+
+div#customise_checkout_field input[type="checkbox"]:checked {
+    background-size: 100% !important;
+}
+
+div#customise_checkout_field input[type=checkbox]:after {
+    left: 9px;
+    top: 5px;
+}
+
+div#payment {
+    background: transparent !important;
+    border: 1px solid #ebe9eb !important;
+}
+
+#customise_checkout_field input#total_amount {
+    background: #eee;
+    border: 1px solid #ccc;
+    /*border-radius: 4px;*/
+    float: left;
+    padding: 7px 10px;
+    width: 84%;
+    font-size: 16px;
+    margin-right: 1%;
+    margin-left: 0 !important;
+    /*height: 42px;*/
+    margin-bottom: 0;
+}
+
+button#donate_btn {
+    margin-top: 10px;
+}
+
+#customise_checkout_field button.cruncy_eur {
+    background-color: #eee !important;
+    border: 1px solid #ccc !important;
+    border-radius: 4px !important;
+    padding: 7px 4px !important;
+    color: #444 !important;
+    height: 50px;
+    width: 15%;
+    margin: 0px !important;
+}
+
+label#charities_list select#charities_list {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    /*border-radius: 4px;*/
+    /*padding: 7px 40px 7px 10px;*/
+    width: 100% !important;
+    margin-left: 0;
+    background-size: 20px;
+    /*height: 40px;*/
+}
+
+input:focus,
+button:focus {
+    outline: none !important;
+}
+
+.customer_checkout_hd span {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+label#charities_list select#charities_list option {
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+}
+
+.restcentrow img {
+    width: 25%;
+    float: left;
+    margin-right: 10px;
+}
+
+
+/* 26 Jan 2022 */
+div#customise_checkout_field#customise_checkout_field {
+    padding: 0;
+    padding-top: 15px;
+}
+
+#customise_checkout_field .customer_checkout_hd {
+    align-items: flex-end;
+    border-color: #bec1c7;
+}
+
+#customise_checkout_field .user_charity_amount.user_charity_amount,
+#customise_checkout_field .cruncy_eur.cruncy_eur {
+    display: inline-block;
+    width: 80% !important;
+    min-height: 35px;
+    height: 100% !important;
+    background: none !important;
+}
+
+#customise_checkout_field .cruncy_eur.cruncy_eur {
+    width: 14% !important;
+    min-height: 51px !important;
+}
+
+#customise_checkout_field select#charities_list#charities_list {
+    width: 100%;
+    margin: 0;
+    padding: 16px 5px;
+    border: 1px solid #ccc;
+    background: transparent;
+}
+
+#customise_checkout_field button#donate_btn {
+    padding: 12px 16px;
+    background: #333333;
+    border-color: #333333;
+    color: #fff;
+    font-weight: 600;
+    /*border-radius: 4px;*/
+    font-size: 14px;
+    margin-top: 18px;
+    cursor: pointer;
+}
+
+#customise_checkout_field p#login_msg,
+#customise_checkout_field p#rest-cent__para {
+    text-align: justify;
+    font-size: 14px !important;
+    color: #5c5c5c;
+}
+
+#customise_checkout_field .login_textsession span#rest_logo {
+    width: 94%;
+}
+
+#customise_checkout_field .login_textsession span#rest_logo a {
+    width: 100%;
+    justify-content: center;
+    flex-direction: row-reverse;
+    gap: 20px;
+    background: #f9f9f9;
+    padding: 10px 10px;
+}
+
+#customise_checkout_field .login_textsession span#rest_logo img {
+    width: 50px;
+}
+
+#customise_checkout_field .login_textsession span#rest_logo a span {
+    font-size: 16px;
+    color: #000 !important;
+}
+
+.InputAddOn {
+    display: flex;
+}
+
+.InputAddOn-field {
+    flex: 1;
+    /* field styles */
+}
+
+.InputAddOn-item {
+    margin: 0;
+    line-height: 50px;
+}
+
+span#rest_logo {
+    background-color: transparent;
+    border: 1px solid #ebe9eb;
+    max-width: 575px !important;
+    width: 100% !important;
+    padding: 0;
+}
+
+#customise_checkout_field .cruncy_eur.cruncy_eur {
+    width: 18% !important;
+    min-height: 51px !important;
+}
+
+#customise_checkout_field .cruncy_eur.cruncy_eur {
+    width: 8% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#customise_checkout_field .user_charity_amount.user_charity_amount {
+    width: 91% !important;
+}
+
+.admin_chrt_logo {
+    display: none;
+}
+
+.blockUI.blockMsg.blockPage h1 {
+    font-weight: 200;
+    font-size: 38px;
+}
+
+button#donate_btn[disabled] {
+    opacity: .7;
+    pointer-events: none;
+}
+
+button#donate_btn {
+    float: left;
+}
+
+.loadtext {
+    float: left;
+    padding: 13px;
+    line-height: 48px;
+}
